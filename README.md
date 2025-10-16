@@ -3,9 +3,7 @@ Product Owner: Qijin
 
 Scrum Master: Aleksandar
 
-Team Members: Ali
-
-              Ilija
+Team Members: Ali, Ilija
 
 Plans:
 idk we aint got one
