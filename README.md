@@ -6,4 +6,4 @@ Scrum Master: Aleksandar
 Team Members: Ali, Ilija
 
 Plans:
-idk we aint got one
+idk we aint got one, we are got one
